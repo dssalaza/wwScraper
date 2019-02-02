@@ -4,7 +4,7 @@ Scraping around the web
 
 ## Dependencies
 
-# scrapy
+scrapy
 
 ## Running the spider 
 
