@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/wwScraper/spiders/main_spider.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
               <folding>
                 <element signature="e#21#50#0" expanded="true" />
               </folding>
@@ -37,6 +37,9 @@
       <find>MiPrimerSpider</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -50,6 +53,7 @@
     <option name="width" value="1366" />
     <option name="height" value="743" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -135,7 +139,7 @@
     <entry file="file://$PROJECT_DIR$/wwScraper/spiders/main_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
           <folding>
             <element signature="e#21#50#0" expanded="true" />
           </folding>
