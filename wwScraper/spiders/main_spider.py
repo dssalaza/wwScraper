@@ -14,7 +14,7 @@ class Article(Item):
 
 class WebSpider(Spider):
     name = "NoboaSpider"
-    start_urls = ['http://www.alvaronoboa.com/']
+    start_urls = ['']
 
     def parse(self, response):
         sel = Selector(response)
